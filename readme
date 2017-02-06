@@ -1,4 +1,24 @@
-## Controls
+
+#How to play this game
+
+## Go to http://www.mimicom24.com/arcadegame.html
+A character is positioned at starting point (bottom of the canvas)
+Use the arrow keys of your computer (UP, DOWN, LEFT, RIGHT) to move the character
+
+#Rule
+
+You start with 3 Hearts or lifes
+If you are collecting diamonds you will win 50 points per diamond  
+
+If you get hit by a bug, you lose 1 heart or life
+
+If you lose all hearts, game over
+
+Try to collect as my as you can diamonds to make a lot of points.
+
+Resources:
+
+## Game Controls
   
  -- Use the **arrow keys** or the **WASD keys** to move.
  -- If on a touch-enabled device (mobile for example) you may also use **touches** to move.
